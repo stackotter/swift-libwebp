@@ -1,5 +1,6 @@
-import XCTest
 import Foundation
+import XCTest
+
 @testable import WebP
 
 final class WebPTests: XCTestCase {

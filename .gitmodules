@@ -1,3 +1,6 @@
 [submodule "Sources/libwebp"]
 	path = Sources/libwebp/libwebp
 	url = https://chromium.googlesource.com/webm/libwebp
+[submodule "libwebp"]
+	path = libwebp
+	url = ./libwebp
